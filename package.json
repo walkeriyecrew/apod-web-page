@@ -1,0 +1,23 @@
+{
+  "name": "apod-web-page",
+  "version": "1.0.0",
+  "description": "A Node.js, HTML, CSS Web Page which uses Astronomy Picture of The Day API which Developed by NASA",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walkeriyecrew/apod-web-page.git"
+  },
+  "author": "walkeriyecrew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walkeriyecrew/apod-web-page/issues"
+  },
+  "homepage": "https://github.com/walkeriyecrew/apod-web-page#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
