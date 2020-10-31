@@ -1,2 +1,2 @@
 # apod-web-page
-A HTML Web Page which uses Astronomy Picture of The Day API which Developed by NASA
+A Node.js, HTML, CSS Web Page which uses Astronomy Picture of The Day API which Developed by NASA
